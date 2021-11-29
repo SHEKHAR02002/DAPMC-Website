@@ -1,0 +1,16 @@
+body{
+    font-family: "poppines";
+    
+}
+.container{
+    background-color: white;
+    box-shadow: 0 0 2rem 0 rgba(168, 180, 194, 0.37);
+}
+
+h5{
+    font-size: 15px;
+}
+.text-secondary{
+    font-size: 10px;
+}
+

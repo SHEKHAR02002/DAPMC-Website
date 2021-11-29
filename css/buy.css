@@ -1,0 +1,35 @@
+body{
+    font-family: "poppines";
+    background-color:#f1ffee; 
+    
+}
+.buy_form h1{
+    font-size:200%;
+
+}
+label{
+    font-family: 'poppines';
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+input{
+    font-family: 'poppines';
+    font-size: 1.5rem;
+    height: 2.2rem;   
+    margin-right: 0.5rem;
+    background-color: #d6e5d8;
+}
+button{
+    font-family: 'poppines';
+    font-size: 3rem;
+    height:2.5rem;
+    width: 90%;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    align-items: center;
+}
+.table h1{
+    font-size:200%;
+
+}
